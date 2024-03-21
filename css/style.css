@@ -1,0 +1,45 @@
+body{
+   background-color: rgb(234, 253, 252);
+   
+    
+}
+h1{
+    color: rgb(5, 41, 41);
+}
+a{
+   border-spacing: 30px;
+    border: 2px solid rgb(220, 255, 255);
+}
+p{
+    color: rgb(2, 21, 37);
+    border-style: solid;
+  
+    border-radius: 8px;
+}
+
+a{
+    display: inline;
+    padding: 10px 20px;
+    margin: 10px;
+    color: rgb(255, 253, 253);
+    background-color: rgb(11, 41, 41);
+    transition: background-color 0.3 ease;
+    border-radius: 5px;
+}
+a:hover{
+    background-color: black;
+}
+img{
+    display: block;
+    margin: auto;
+    width: 40%;
+    height: 10%;
+}
+.Galeria{
+    width: 200px;
+    margin: 0 5px;
+    height: 200px;
+    object-fit: cover;
+
+   
+}
